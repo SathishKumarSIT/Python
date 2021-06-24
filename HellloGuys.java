@@ -1,4 +1,4 @@
-public class Holidays {
+public class HelloGuys {
       public static void main(Strings[] args){
             //TODO Auto-generated method stub
             System.out.println("Hai Sathish");
